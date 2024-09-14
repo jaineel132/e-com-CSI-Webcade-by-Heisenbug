@@ -1,4 +1,4 @@
-[data-theme=light] {
+[data-theme=hm] {
   --theme-success-50: var(--color-success-50);
   --theme-success-100: var(--color-success-100);
   --theme-success-150: var(--color-success-150);
@@ -86,7 +86,7 @@
   --theme-text: var(--theme-elevation-750);
   --theme-border-color: var(--theme-elevation-150);
 
-  color-scheme: light;
+  color-scheme: hm;
   color: var(--theme-text);
 
   --highlight-default-bg-color: var(--theme-success-400);
@@ -117,7 +117,7 @@
   }
 }
 
-[data-theme=dark] {
+[data-theme=hm] {
   --theme-elevation-0: var(--color-base-1000);
   --theme-elevation-50: var(--color-base-950);
   --theme-elevation-100: var(--color-base-900);
@@ -205,7 +205,7 @@
   --theme-input-bg: var(--theme-elevation-150);
   --theme-border-color: var(--theme-elevation-250);
 
-  color-scheme: dark;
+  color-scheme: hm;
   color: var(--theme-text);
 
   --highlight-default-bg-color: var(--theme-success-100);
