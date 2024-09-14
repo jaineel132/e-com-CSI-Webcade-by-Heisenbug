@@ -35,6 +35,7 @@ export const OrderConfirmationPage: React.FC<{}> = () => {
               label="View all orders"
               appearance="secondary"
             />
+            
           </div>
         </Fragment>
       ) : (
