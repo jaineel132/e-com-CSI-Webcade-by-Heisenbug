@@ -9,6 +9,12 @@ export const Footer: GlobalConfig = {
   },
   fields: [
     {
+      name:'copyright',
+      label:'Copy',
+      type:'text',
+      required:true,
+    },
+    {
       name: 'navItems',
       type: 'array',
       maxRows: 6,
